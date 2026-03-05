@@ -127,7 +127,7 @@
         stroke={dffColor.stroke}
         stroke-width="4"
     />
-
+kln,m
     <!-- Output indicator dot -->
     <circle
         cx={width - 15}
